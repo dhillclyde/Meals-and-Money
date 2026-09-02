@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Home Apps",
     "owner": "dallinhills-team",
-    "slug": "home-apps",
+    "name": "Meals and Money",
+    "slug": "meals-and-money",
     "version": "1.0.0",
     "scheme": "homeapps",
     "orientation": "portrait",
