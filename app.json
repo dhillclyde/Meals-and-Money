@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "Home Apps",
+    "owner": "dallinhill",
     "slug": "home-apps",
     "version": "1.0.0",
     "scheme": "homeapps",
