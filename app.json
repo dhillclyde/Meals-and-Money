@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Home Apps",
+    "slug": "home-apps",
+    "version": "1.0.0",
+    "scheme": "homeapps",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.clyde.homeapps"
+    },
+    "android": {
+      "package": "com.clyde.homeapps",
+      "edgeToEdgeEnabled": true
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/PROJECT_ID_FILLED_BY_EAS_INIT"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "PROJECT_ID_FILLED_BY_EAS_INIT"
+      }
+    }
+  }
+}
